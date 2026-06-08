@@ -95,12 +95,13 @@ function MobileMenu({ mobileMenu, setMobileMenu }) {
                     top-0
                     left-0
                     w-[85%]
-                    max-w-[340px]
+                    max-w-[340]
                     h-screen
+                    overflow-y-scroll
                     z-999
                     duration-500
 
-                    bg-gradient-to-br
+                    bg-linear-to-br
                     from-cyan-950
                     via-cyan-900
                     to-black
