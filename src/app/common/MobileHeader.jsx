@@ -100,7 +100,6 @@ function MobileMenu({ mobileMenu, setMobileMenu }) {
                     overflow-y-scroll
                     z-999
                     duration-500
-
                     bg-linear-to-br
                     from-cyan-950
                     via-cyan-900
@@ -171,7 +170,7 @@ function MobileMenu({ mobileMenu, setMobileMenu }) {
                 </div>
 
                 {/* Bottom CTA */}
-                <div className="absolute bottom-6 left-6 right-6">
+                <div className="mx-4">
 
                     <div
                         className="
