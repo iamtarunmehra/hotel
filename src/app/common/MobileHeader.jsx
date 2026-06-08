@@ -23,7 +23,7 @@ export default function MobileHeader() {
                             className="
                                 text-[10px]
                                 uppercase
-                                tracking-[4px]
+                                tracking-[2px]
                                 text-cyan-200
                             "
                         >
